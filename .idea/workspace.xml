@@ -6,7 +6,50 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d4030d9-cc50-4ce0-aca9-294af7c696d5" name="默认的" comment="" />
+    <list default="true" id="9d4030d9-cc50-4ce0-aca9-294af7c696d5" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaopengwei/demo/xcontroller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaopengwei/demo/xservice/ITestXService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaopengwei/demo/xservice/impl/TestXServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaopengwei/xspring/annotation/XAutowired.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaopengwei/xspring/annotation/XController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaopengwei/xspring/annotation/XRequestMapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaopengwei/xspring/annotation/XService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaopengwei/xspring/servlet/XDispatchServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaopengwei/demo/xcontroller/TestController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaopengwei/demo/xservice/ITestXService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaopengwei/demo/xservice/impl/TestXServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaopengwei/xspring/annotation/XAutowired.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaopengwei/xspring/annotation/XController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaopengwei/xspring/annotation/XRequestMapping.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaopengwei/xspring/annotation/XService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaopengwei/xspring/servlet/XDispatchServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-custom-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-custom-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-custom-1.0-SNAPSHOT/WEB-INF/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-custom-1.0-SNAPSHOT/WEB-INF/classes/com/xiaopengwei/demo/xcontroller/TestController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-custom-1.0-SNAPSHOT/WEB-INF/classes/com/xiaopengwei/demo/xservice/ITestXService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-custom-1.0-SNAPSHOT/WEB-INF/classes/com/xiaopengwei/demo/xservice/impl/TestXServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-custom-1.0-SNAPSHOT/WEB-INF/classes/com/xiaopengwei/xspring/annotation/XAutowired.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-custom-1.0-SNAPSHOT/WEB-INF/classes/com/xiaopengwei/xspring/annotation/XController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-custom-1.0-SNAPSHOT/WEB-INF/classes/com/xiaopengwei/xspring/annotation/XRequestMapping.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-custom-1.0-SNAPSHOT/WEB-INF/classes/com/xiaopengwei/xspring/annotation/XService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-custom-1.0-SNAPSHOT/WEB-INF/classes/com/xiaopengwei/xspring/servlet/XDispatchServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-custom-1.0-SNAPSHOT/WEB-INF/lib/javax.servlet-api-3.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-custom-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-custom-1.0-SNAPSHOT/index.jsp" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +77,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaopengwei/xspring/servlet/XDispatchServlet.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="361">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
               <folding>
                 <element signature="method#doGet#0;class#XDispatchServlet#0" />
                 <element signature="docComment;method#doDispatch#0;class#XDispatchServlet#0" />
@@ -49,7 +92,7 @@
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
-              <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+              <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -76,7 +119,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaopengwei/demo/xcontroller/TestController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
-              <caret line="40" column="36" lean-forward="true" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+              <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -94,7 +137,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaopengwei/demo/xservice/ITestXService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="247">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -120,6 +163,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
   </component>
   <component name="IdeDocumentHistory">
@@ -157,6 +201,7 @@
     <option name="width" value="1750" />
     <option name="height" value="980" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -307,7 +352,7 @@
     <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -410,12 +455,12 @@
       <workItem from="1568683511859" duration="19357000" />
       <workItem from="1568767595957" duration="3985000" />
       <workItem from="1576030400254" duration="13000" />
-      <workItem from="1576111858502" duration="1812000" />
+      <workItem from="1576111858502" duration="2017000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26924000" />
+    <option name="totallyTimeSpent" value="27129000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -444,7 +489,7 @@
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32956153" />
       <window_info anchor="bottom" id="Application Servers" order="8" weight="0.32956153" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32956153" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.33002833" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="消息" order="12" weight="0.32956153" />
@@ -623,7 +668,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaopengwei/demo/xservice/ITestXService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
@@ -651,7 +696,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaopengwei/xspring/servlet/XDispatchServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
           <folding>
             <element signature="method#doGet#0;class#XDispatchServlet#0" />
             <element signature="docComment;method#doDispatch#0;class#XDispatchServlet#0" />
@@ -664,14 +709,14 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaopengwei/demo/xcontroller/TestController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="40" column="36" lean-forward="true" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+          <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
         </state>
       </provider>
     </entry>
